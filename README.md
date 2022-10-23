@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Youyoung Jang 👻
+I am a data scientist who build recommendation systems and analyze people's behavior style.  
+I am currently working in the FinTech company and I also have interests in E-commerce and Social Network Platform.  
 
-<!--
-**youyoungjang/youyoungjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Research Blog Badge](http://img.shields.io/badge/-Personal%20Blog-193475?style=for-the-badge&logo=Bloglovin&link=https://youyoungjang.github.io/)](https://youyoungjang.github.io/) 
+[![Research Blog Badge](http://img.shields.io/badge/-Research%20Blog-ff69b4?style=for-the-badge&logo=Bloglovin&link=https://greeksharifa.github.io/blog/categories/)](https://greeksharifa.github.io/blog/categories/) 
+[![Medium](http://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=Medium&link=https://youyoung-jang.medium.com/)](https://youyoung-jang.medium.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/youyoungjang/)](https://www.linkedin.com/in/youyoungjang/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:pushkin522@gmail.com)](mailto:pushkin522@gmail.com) 
+  
+</div>
