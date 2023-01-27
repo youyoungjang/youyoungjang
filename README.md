@@ -1,6 +1,10 @@
-### I'm Youyoung Jang 👻
-I am a data scientist who build recommendation systems and analyze people's behavior style.  
-I am currently working in the FinTech company and I also have interests in E-commerce and Social Network Platform.  
+### I'm Youyoung Jang 🐧
+I am a data scientist and my interests are as follows
+- recommendation system  
+- time series forecasting  
+- graph neural networks  
+- anomaly detection  
+- causal inference  
 
 <div align=center>
 
