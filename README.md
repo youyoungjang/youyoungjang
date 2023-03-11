@@ -4,6 +4,7 @@ I am a data scientist and my interests are as follows
 - time series forecasting  
 - graph neural networks  
 - anomaly detection  
+- language models  
 - quantitative analysis  
 - causal inference  
 
